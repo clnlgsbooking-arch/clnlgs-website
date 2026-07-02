@@ -1,6 +1,6 @@
 import Nav from "../components/Nav";
 
-const spotifyTrack = "https://open.spotify.com/track/2YmWdRQGL79zLpCOUU1ZTf?si=9e5fc5bf39f64d3c";
+const spotifyTrack = "https://open.spotify.com/artist/5ZJb2JltYTZKylCFi9Z1eS?si=FdWl8KEcTUazpMY1zGy4dQ";
 const spotifyEmbed = "https://open.spotify.com/embed/track/2YmWdRQGL79zLpCOUU1ZTf";
 
 export default function MusicPage() {
