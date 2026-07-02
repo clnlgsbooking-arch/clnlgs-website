@@ -16,8 +16,8 @@ export default function AboutPage() {
             connection, and live performance. His world is industrial, intentional, and built
             around the feeling created when music meets a room.
           </p>
-          <img src="/artist-secondary.jpg" alt="CLN LGS portrait" />
-        </div>
+<img src="/about.jpg" alt="CLN LGS portrait" />
+              </div>
       </section>
     </main>
   );
