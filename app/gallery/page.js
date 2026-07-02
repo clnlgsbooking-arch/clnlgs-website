@@ -12,7 +12,7 @@ export default function GalleryPage() {
 
         <div className="gallery">
           <img src="/artist-primary.jpg" alt="CLN LGS gallery image" />
-          <img src="/artist-secondary.jpg" alt="CLN LGS gallery image" />
+  <img src="/artist-secondary.jpg" alt="CLN LGS gallery image" />
     <img src="/artist-third.jpg" alt="CLN LGS gallery image" />
   <img src="/artist-fourth.jpg" alt="CLN LGS gallery image" />
   <img src="/artist-fifth.jpg" alt="CLN LGS gallery image" />
