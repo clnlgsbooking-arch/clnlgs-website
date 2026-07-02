@@ -11,7 +11,6 @@ export default function GalleryPage() {
         </div>
 
         <div className="gallery">
-          <img className="wide" src="/hero.jpg" alt="CLN LGS gallery image" />
           <img src="/artist-primary.jpg" alt="CLN LGS gallery image" />
           <img src="/artist-secondary.jpg" alt="CLN LGS gallery image" />
     <img src="/artist-third.jpg" alt="CLN LGS gallery image" />
